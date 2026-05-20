@@ -44,15 +44,6 @@ I am a multifaceted software engineer and security enthusiast. I build high-perf
 
 ---
 
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohjahon-ravshanov&show_icons=true&theme=tokyonight&count_private=true" alt="Shohjahon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohjahon-ravshanov&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 Let's collaborate on open-source projects, secure your infrastructure, or build the next big thing.
