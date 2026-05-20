@@ -1,46 +1,68 @@
-<!-- Profil README - Shohjahon Ravshanov -->
+# Hi there, I'm Shohjahon Ravshanov 👋 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+👋;I'm+Shohjahon+Ravshanov;Cybersecurity+Engineer;Penetration+Tester;Full-Stack+Security+Developer" alt="typing intro"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohjahon-ravshanov&theme=tokyonight&column=7" alt="github profile trophy" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shohjahon-ravshanov&color=ff0055&style=for-the-badge&label=TARGETS+AUDITED" alt="Profile Views" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I am a Cybersecurity Engineer and Penetration Tester with heavy full-stack construction capabilities. Because I deeply understand how modern web applications are engineered and built from the inside out, I know exactly where the seams tear, how inputs are mishandled, and how to weaponize or fix vulnerabilities before the bad actors find them.
-
-- 🔭 **Current Focus:** Web Application Penetration Testing & Vulnerability Research
-- 🎯 **Core Specialities:** OWASP Top 10 Exploitation, Security Automation, and Secure Code Auditing
-- ⚡ **The Mindset:** I spend half my time breaking things and the other half building them.
-
----
-
-## 🛡️ Primary Vector: Cybersecurity & Penetration Testing
-*Auditing perimeters, intercepting traffic, and exposing vulnerabilities before they become headline news.*
-
-### 🧰 Security Arsenal & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Burp_Suite-Advanced-orange?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-Intermediate-red?style=for-the-badge&logo=rapid7&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-Advanced-blue?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-Advanced-green?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Nessus-Advanced-002D62?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
-  <img src="https://img.shields.io/badge/Nikto-🛡️-darkgreen?style=for-the-badge" alt="Nikto" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://komarev.com/ghpvc/?username=shohjahon-ravshanov&color=007acc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-### 🎯 Domains of Expertise
-```text
-🫵  Web Application Penetration Testing (OWASP Top 10)
-🔍  Vulnerability Research & Exploit Development
-🛰️  Network Security Auditing & Traffic Analysis
-⚡  Security Automation & Python Security Tools
+I am a multifaceted software engineer and security enthusiast. I build high-performance, beautiful user interfaces, engineer robust backend systems, and break/secure applications through meticulous cybersecurity testing. 
+
+---
+
+## 🛠️ Tech Stack & Arsenal
+
+### 🎨 Frontend Engineering
+*Creating seamless, responsive, and intuitive user experiences.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</p>
+
+### ⚙️ Backend & Architecture
+*Designing scalable, reliable APIs and heavy-lifting data layers.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
+</p>
+
+### 🛡️ Cybersecurity & Penetration Testing
+*Auditing infrastructure, capturing flags, and securing the perimeter.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-167EBA?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge=logo&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Nessus-002D62?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
+  <img src="https://img.shields.io/badge/Nikto-🛡️-darkgreen?style=for-the-badge" alt="Nikto" />
+</p>
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shohjahon-ravshanov&show_icons=true&theme=tokyonight&count_private=true" alt="Shohjahon's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohjahon-ravshanov&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+Let's collaborate on open-source projects, secure your infrastructure, or build the next big thing.
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
+</p>
